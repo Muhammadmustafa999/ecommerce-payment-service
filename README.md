@@ -15,3 +15,5 @@ CI/CD security scanning is powered by CI/CD ThreatIntel.
 ## Setup
 pip install -r requirements.txt
 python manage.py runserver
+## Security Status
+CI/CD security scanning: Active ✅
