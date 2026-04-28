@@ -7,7 +7,6 @@ A microservice handling payment processing for our e-commerce platform.
 - Stripe Payment Integration  
 - Redis for task queuing
 - PostgreSQL database
-- 
 
 ## Security
 This service handles PCI-DSS sensitive payment data.
